@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "dob": "1990-01-01"
+    },
+    {
+      "name": "Jane Smith",
+      "dob": "1985-05-15"
+    }
+  ]
+}
